@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="424265f7-383f-4c2f-85ad-0755fdf9a653" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../drivelearn-backend/src/main/java/com/example/drivelearnbackend/Sevices/VehicleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../drivelearn-backend/src/main/java/com/example/drivelearnbackend/Sevices/VehicleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/base.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1uXErzmEzhWi626V6ejTbUrJII0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -120,6 +121,7 @@
       <workItem from="1631812537173" duration="2524000" />
       <workItem from="1631967087227" duration="2423000" />
       <workItem from="1631975595877" duration="812000" />
+      <workItem from="1632059889998" duration="689000" />
     </task>
     <servers />
   </component>
